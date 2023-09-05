@@ -1,0 +1,3 @@
+npm i -g cordova
+ionic cordova plugin add cordova-sqlite-storage
+npm install @ionic/storage-angular --save
